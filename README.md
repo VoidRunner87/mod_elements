@@ -11,12 +11,12 @@ You need git LFS to download this repo.
 
 Use the [mod manager](https://github.com/VoidRunner87/mydu_mod_manager)
 
-* Grab a [release](../../releases) version and extract on `<MYDU_CLIENT>/Game/data/resources_generated/mods`
-* Open the mod manager and install it
+* Grab a [release](../../releases) version and extract on `<MYDU_CLIENT>/mods-cache`
+* Open the mod manager, refresh and install it
 
 ## Install Server Side
 
-* TODO
+* Add the mod to the manifest of the server. See the mod_manager for how to.
 
 ## Roadmap
 
