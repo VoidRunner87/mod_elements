@@ -22,7 +22,7 @@ graph TD
     pkfx[pkfx<br/><br/><i>binary file</i>] --> diffurerampTexture[diffuseramp<br/><br/>engine plume texture]
 ```
 
-# Adding Skin to a Player
+# Creating and Adding Skins to a Player
 
 * Create an nqdef that is a skin. Ie:
 
