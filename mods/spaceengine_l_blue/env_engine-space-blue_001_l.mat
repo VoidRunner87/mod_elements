@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials version="2.3">
+	<material name="env_engine-space-blue_001_l" parent="mesh_base">
+		<state name="emission">1</state>
+		<state name="nq_mrao">1</state>
+		<texture name="albedo">resources_generated/mods/mod_elements/spaceengine_l_blue/env_engine-space-blue_001_l_t_c.dds</texture>
+		<texture name="shading">resources_generated/elements/engines/engine-space-manoeuver_001_l/textures/env_engine-space-manoeuver_001_l_t_mrao.dds</texture>
+		<texture name="normal">resources_generated/mods/mod_elements/spaceengine_l_blue/env_engine-space-blue_001_l_t_n.dds</texture>
+		<texture name="ambient_occlusion">resources_generated/elements/engines/engine-space-manoeuver_001_l/textures/env_engine-space-manoeuver_001_l_t_mrao.dds</texture>
+		<texture name="emission">resources_generated/elements/engines/engine-space_001_l/textures/env_engine-space_001_l_t_e.dds</texture>
+		<parameter name="metalness">1</parameter>
+		<parameter name="emission_color">0 0.4 0.98 1</parameter>
+		<parameter name="emission_scale">4</parameter>
+	</material>
+</materials>
