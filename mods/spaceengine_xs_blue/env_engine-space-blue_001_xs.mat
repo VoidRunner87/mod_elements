@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials version="2.3">
+	<material name="env_engine-space-blue_001_xs" parent="mesh_base">
+		<state name="emission">1</state>
+		<state name="nq_mrao">1</state>
+		<texture name="albedo">resources_generated/elements/engines/engine-space-military_001_xs/textures/env_engine-space-military_001_xs_t_c.dds</texture>
+		<texture name="shading">resources_generated/elements/engines/engine-space-military_001_xs/textures/env_engine-space-military_001_xs_t_mrao.dds</texture>
+		<texture name="normal">resources_generated/elements/engines/engine-space-military_001_xs/textures/env_engine-space-military_001_xs_t_n.dds</texture>
+		<texture name="emission">resources_generated/elements/engines/engine-space_001_xs/textures/env_engine-space_001_xs_t_e.dds</texture>
+		<parameter name="metalness">1</parameter>
+		<parameter name="emission_color">0 0.4 0.98 1</parameter>
+		<parameter name="emission_scale">4</parameter>
+	</material>
+</materials>

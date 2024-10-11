@@ -1,0 +1,65 @@
+{
+    "elements": {
+        "SpaceEngineXtraLarge_Epstein": {
+            "inherit": "SpaceEngineXtraLarge",
+            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
+        },
+        "SpaceEngineXtraLargeManeuver_Epstein": {
+            "inherit": "SpaceEngineXtraLargeManeuver",
+            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
+        },
+        "SpaceEngineXtraLargeManeuver3_Epstein": {
+            "inherit": "SpaceEngineXtraLargeManeuver_Epstein"
+        },
+        "SpaceEngineXtraLargeManeuver4_Epstein": {
+            "inherit": "SpaceEngineXtraLargeManeuver_Epstein"
+        },
+        "SpaceEngineXtraLargeManeuver5_Epstein": {
+            "inherit": "SpaceEngineXtraLargeManeuver_Epstein"
+        },
+        "SpaceEngineXtraLargeMilitary_Epstein": {
+            "inherit": "SpaceEngineXtraLargeMilitary",
+            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
+        },
+        "SpaceEngineXtraLargeMilitary3_Epstein": {
+            "inherit": "SpaceEngineXtraLargeMilitary_Epstein"
+        },
+        "SpaceEngineXtraLargeMilitary4_Epstein": {
+            "inherit": "SpaceEngineXtraLargeMilitary_Epstein"
+        },
+        "SpaceEngineXtraLargeMilitary5_Epstein": {
+            "inherit": "SpaceEngineXtraLargeMilitary_Epstein"
+        },
+        "SpaceEngineXtraLargeFreight_Epstein": {
+            "inherit": "SpaceEngineXtraLargeFreight",
+            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
+        },
+        "SpaceEngineXtraLargeFreight3_Epstein": {
+            "inherit": "SpaceEngineXtraLargeFreight_Epstein"
+        },
+        "SpaceEngineXtraLargeFreight4_Epstein": {
+            "inherit": "SpaceEngineXtraLargeFreight_Epstein"
+        },
+        "SpaceEngineXtraLargeFreight5_Epstein": {
+            "inherit": "SpaceEngineXtraLargeFreight_Epstein"
+        },
+        "SpaceEngineXtraLargeSafe_Epstein": {
+            "inherit": "SpaceEngineXtraLargeSafe",
+            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
+        },
+        "SpaceEngineXtraLargeSafe3_Epstein": {
+            "inherit": "SpaceEngineXtraLargeSafe_Epstein"
+        },
+        "SpaceEngineXtraLargeSafe4_Epstein": {
+            "inherit": "SpaceEngineXtraLargeSafe_Epstein"
+        },
+        "SpaceEngineXtraLargeSafe5_Epstein": {
+            "inherit": "SpaceEngineXtraLargeSafe_Epstein"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "elements": {
+        "SpaceEngineMedium_Epstein": {
+            "inherit": "SpaceEngineMedium",
+            "node": "resources_generated/mods/mod_elements/spaceengine_m_blue/env_engine-space-blue_001_m.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_m/icons/env_engine-space-military_001_m_icon.png"
+        },
+        "SpaceEngineMediumManeuver_Epstein": {
+            "inherit": "SpaceEngineMediumManeuver",
+            "node": "resources_generated/mods/mod_elements/spaceengine_m_blue/env_engine-space-blue_001_m.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_m/icons/env_engine-space-military_001_m_icon.png"
+        },
+        "SpaceEngineMediumManeuver3_Epstein": {
+            "inherit": "SpaceEngineMediumManeuver_Epstein"
+        },
+        "SpaceEngineMediumManeuver4_Epstein": {
+            "inherit": "SpaceEngineMediumManeuver_Epstein"
+        },
+        "SpaceEngineMediumManeuver5_Epstein": {
+            "inherit": "SpaceEngineMediumManeuver_Epstein"
+        },
+        "SpaceEngineMediumMilitary_Epstein": {
+            "inherit": "SpaceEngineMediumMilitary",
+            "node": "resources_generated/mods/mod_elements/spaceengine_m_blue/env_engine-space-blue_001_m.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_m/icons/env_engine-space-military_001_m_icon.png"
+        },
+        "SpaceEngineMediumMilitary3_Epstein": {
+            "inherit": "SpaceEngineMediumMilitary_Epstein"
+        },
+        "SpaceEngineMediumMilitary4_Epstein": {
+            "inherit": "SpaceEngineMediumMilitary_Epstein"
+        },
+        "SpaceEngineMediumMilitary5_Epstein": {
+            "inherit": "SpaceEngineMediumMilitary_Epstein"
+        },
+        "SpaceEngineMediumFreight_Epstein": {
+            "inherit": "SpaceEngineMediumFreight",
+            "node": "resources_generated/mods/mod_elements/spaceengine_m_blue/env_engine-space-blue_001_m.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_m/icons/env_engine-space-military_001_m_icon.png"
+        },
+        "SpaceEngineMediumFreight3_Epstein": {
+            "inherit": "SpaceEngineMediumFreight_Epstein"
+        },
+        "SpaceEngineMediumFreight4_Epstein": {
+            "inherit": "SpaceEngineMediumFreight_Epstein"
+        },
+        "SpaceEngineMediumFreight5_Epstein": {
+            "inherit": "SpaceEngineMediumFreight_Epstein"
+        },
+        "SpaceEngineMediumSafe_Epstein": {
+            "inherit": "SpaceEngineMediumSafe",
+            "node": "resources_generated/mods/mod_elements/spaceengine_m_blue/env_engine-space-blue_001_m.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_m/icons/env_engine-space-military_001_m_icon.png"
+        },
+        "SpaceEngineMediumSafe3_Epstein": {
+            "inherit": "SpaceEngineMediumSafe_Epstein"
+        },
+        "SpaceEngineMediumSafe4_Epstein": {
+            "inherit": "SpaceEngineMediumSafe_Epstein"
+        },
+        "SpaceEngineMediumSafe5_Epstein": {
+            "inherit": "SpaceEngineMediumSafe_Epstein"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.3">
+	<materials>
+		<library>resources_generated/mods/mod_elements/spaceengine_xs_blue/env_engine-space-blue_001_xs.mat</library>
+		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
+	</materials>
+	<node type="ObjectMeshStatic" id="449307239" name="env_engine-space-blue_001_xs_1">
+		<mesh_name>resources_generated/elements/engines/engine-space_001_xs/meshes/env_engine-space_001_xs.mesh</mesh_name>
+		<surface name="spaceengine_XS_lod0" max_visible_distance="128" material="env_engine-space-blue_001_xs" property="surface_base"/>
+		<surface name="spaceengine_XS_lod1" min_visible_distance="128" max_visible_distance="256" material="env_engine-space-blue_001_xs" property="surface_base"/>
+		<surface name="spaceengine_XS_lod2" min_visible_distance="256" max_visible_distance="512" max_fade_distance="16" material="env_engine-space-blue_001_xs" property="surface_base"/>
+		<transform>0.999999940395 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="88111845" name="contact_surfaces3">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="NodeReference" id="586227215" name="contact1">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>0.909090995789 0 0 0.0 0 -1.48109734255e-007 -0.909090995789 0.0 0 0.909090995789 -1.48109734255e-007 0.0 0 0.489774495363 -4.62681055069e-005 1.0</transform>
+			</node>
+			<node type="NodeReference" id="16073608" name="contact3">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>-3.9737628299e-008 0 -0.909090995789 0.0 -1.08372091745e-007 0.909090995789 4.73709443796e-015 0.0 0.909090995789 1.08372091745e-007 -3.9737628299e-008 0.0 0.244286090136 0.0511956997216 3.27825517843e-008 1.0</transform>
+			</node>
+			<node type="NodeReference" id="671658066" name="contact2">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>-0.909090995789 0 -1.37268926892e-007 0.0 -1.63637312522e-014 0.909090995789 1.08372091745e-007 0.0 1.37268926892e-007 1.08372091745e-007 -0.909090995789 0.0 0 0.0511956699193 -0.247607275844 1.0</transform>
+			</node>
+			<node type="NodeReference" id="591181855" name="contact4">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>1.7700654098e-007 0 0.909090995789 0.0 1.08372091745e-007 0.909090995789 -2.11008239961e-014 0.0 -0.909090995789 1.08372091745e-007 1.7700654098e-007 0.0 -0.24428614974 0.0511956438422 5.41387237263e-008 1.0</transform>
+			</node>
+			<node type="NodeReference" id="985991640" name="contact5">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>0.909090995789 0 2.74537853784e-007 0.0 3.27274625044e-014 0.909090995789 -1.08372091745e-007 0.0 -2.74537853784e-007 1.08372091745e-007 0.909090995789 0.0 -7.47753290398e-008 0.0511956140399 0.247607335448 1.0</transform>
+			</node>
+		</node>
+		<node type="ObjectMeshStatic" id="390075561" enabled="0" name="col_mesh">
+			<mesh_name>resources_generated/elements/engines/engine-space_001_xs/meshes/env_engine-space_001_xs_col.mesh</mesh_name>
+			<surface name="spaceengine_XS_col_mesh" material="cm_01" property="surface_base"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodePopcorn" id="1691368611" name="vfx_start">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<pkfx_name>resources_generated/mods/mod_elements/spaceengine_xs_blue/fx_sp_enginespace_001_xs_blue.pkfx</pkfx_name>
+		</node>
+	</node>
+</nodes>
