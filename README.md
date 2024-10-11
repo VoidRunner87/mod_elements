@@ -6,6 +6,11 @@ You need git LFS to download this repo.
 
 ![image](https://github.com/user-attachments/assets/6b1df5d1-fa98-4fcf-8d83-18a2b968bda7)
 
+# Disclaimer
+
+This mod needs to copy a texture file to `vfxs/textures/` folder. However it does not override ANY existing files.
+
+The mod adds a skin called "Epstein" to engines. You still need to go in the BO and add that sking to players.
 
 ## Install Client Side
 
