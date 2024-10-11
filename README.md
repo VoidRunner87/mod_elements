@@ -22,6 +22,32 @@ graph TD
     pkfx[pkfx<br/><br/><i>binary file</i>] --> diffurerampTexture[diffuseramp<br/><br/>engine plume texture]
 ```
 
+# Adding Skin to a Player
+
+* Create an nqdef that is a skin. Ie:
+
+```json
+{
+    "elements": {
+        "SpaceEngineXtraSmall_Epstein": {
+            "inherit": "SpaceEngineXtraSmall",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xs_blue/env_engine-space-blue_001_xs.node",
+            "icon": "resources_generated/elements/engines/engine-space-military_001_xs/icons/env_engine-space-military_001_xs_icon.png"
+        }
+    }
+}
+```
+The file above reads as:
+* `Epstein` skin name for `SpaceEngineXtraSmall` inherits all properties except `node` and `icon` from `SpaceEngineXtraSmall`
+
+Then add the skin to the player:
+
+* Find the number id of the element
+* ![image](https://github.com/user-attachments/assets/f4388c68-02ee-4181-879a-1c3b43471729)
+* Use that to set the skin
+* ![image](https://github.com/user-attachments/assets/428a9c8a-a6ae-4ed5-888b-fa7491d3de23)
+
+
 # Disclaimer
 
 This mod needs to copy a texture file to `vfxs/textures/` folder. However it does not override ANY existing files.
