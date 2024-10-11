@@ -1,6 +1,7 @@
 # MyDU Elements Mod
 
-![image](https://github.com/user-attachments/assets/9f71e36e-137e-4cf7-9b0c-937afc38dfdc)
+![image](https://github.com/user-attachments/assets/6b1df5d1-fa98-4fcf-8d83-18a2b968bda7)
+
 
 ## Install Client Side
 
