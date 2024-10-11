@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes version="2.3">
 	<materials>
-		<library>resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.mat</library>
+		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.mat</library>
 		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
 	</materials>
 	<node type="ObjectMeshStatic" id="1061953708" name="env_engine-space-blue_001_s_1">
@@ -17,7 +17,7 @@
 		</node>
 		<node type="NodePopcorn" id="1243204103" name="vfx_start">
 			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
-			<pkfx_name>resources_generated/mods/mod_elements/spaceengine_s_blue/fx_sp_enginespace_001_s_blue.pkfx</pkfx_name>
+			<pkfx_name>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/fx_sp_enginespace_001_s_blue.pkfx</pkfx_name>
 		</node>
 		<node type="NodeDummy" id="725221271" name="contact_surfaces3">
 			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>

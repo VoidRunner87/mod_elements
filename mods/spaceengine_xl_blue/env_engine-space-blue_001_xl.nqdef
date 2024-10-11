@@ -2,12 +2,12 @@
     "elements": {
         "SpaceEngineXtraLarge_Epstein": {
             "inherit": "SpaceEngineXtraLarge",
-            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
         },
         "SpaceEngineXtraLargeManeuver_Epstein": {
             "inherit": "SpaceEngineXtraLargeManeuver",
-            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
         },
         "SpaceEngineXtraLargeManeuver3_Epstein": {
@@ -21,7 +21,7 @@
         },
         "SpaceEngineXtraLargeMilitary_Epstein": {
             "inherit": "SpaceEngineXtraLargeMilitary",
-            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
         },
         "SpaceEngineXtraLargeMilitary3_Epstein": {
@@ -35,7 +35,7 @@
         },
         "SpaceEngineXtraLargeFreight_Epstein": {
             "inherit": "SpaceEngineXtraLargeFreight",
-            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
         },
         "SpaceEngineXtraLargeFreight3_Epstein": {
@@ -49,7 +49,7 @@
         },
         "SpaceEngineXtraLargeSafe_Epstein": {
             "inherit": "SpaceEngineXtraLargeSafe",
-            "node": "resources_generated/mods/mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_xl_blue/env_engine-space-blue_001_xl.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_xl/icons/env_engine-space-military_001_xl_icon.png"
         },
         "SpaceEngineXtraLargeSafe3_Epstein": {

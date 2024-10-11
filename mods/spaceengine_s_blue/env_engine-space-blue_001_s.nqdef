@@ -2,12 +2,12 @@
     "elements": {
         "SpaceEngineSmall_Epstein": {
             "inherit": "SpaceEngineSmall",
-            "node": "resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_s/icons/env_engine-space-military_001_s_icon.png"
         },
         "SpaceEngineSmallManeuver_Epstein": {
             "inherit": "SpaceEngineSmallManeuver",
-            "node": "resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_s/icons/env_engine-space-military_001_s_icon.png"
         },
         "SpaceEngineSmallManeuver3_Epstein": {
@@ -21,7 +21,7 @@
         },
         "SpaceEngineSmallMilitary_Epstein": {
             "inherit": "SpaceEngineSmallMilitary",
-            "node": "resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_s/icons/env_engine-space-military_001_s_icon.png"
         },
         "SpaceEngineSmallMilitary3_Epstein": {
@@ -35,7 +35,7 @@
         },
         "SpaceEngineSmallFreight_Epstein": {
             "inherit": "SpaceEngineSmallFreight",
-            "node": "resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_s/icons/env_engine-space-military_001_s_icon.png"
         },
         "SpaceEngineSmallFreight3_Epstein": {
@@ -49,7 +49,7 @@
         },
         "SpaceEngineSmallSafe_Epstein": {
             "inherit": "SpaceEngineSmallSafe",
-            "node": "resources_generated/mods/mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_s_blue/env_engine-space-blue_001_s.node",
             "icon": "resources_generated/elements/engines/engine-space-military_001_s/icons/env_engine-space-military_001_s_icon.png"
         },
         "SpaceEngineSmallSafe3_Epstein": {
