@@ -24,6 +24,10 @@ graph TD
 
 # Creating and Adding Skins to a Player
 
+This project already have the nqdef files. All you need is adding the skin to the player.
+
+Below is how you would extend this to create more skins.
+
 * Create an nqdef that is a skin. Ie:
 
 ```json
