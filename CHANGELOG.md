@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.3] - 2024-10-24
+
+### Changed
+
+- Forcing DL of LFS files
+
 ## [0.7.2] - 2024-10-24
 
 ### Changed
