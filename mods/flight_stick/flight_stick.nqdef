@@ -1,0 +1,8 @@
+{
+  "elements": {
+    "RemoteControl_FlightStick": {
+      "inherit": "RemoteControl",
+      "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/flight_stick/flight_stick.node"
+    }
+  }
+}

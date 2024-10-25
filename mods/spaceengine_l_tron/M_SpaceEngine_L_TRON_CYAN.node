@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.3">
+	<materials>
+		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_CYAN.mat</library>
+		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
+	</materials>
+	<node type="ObjectMeshStatic" id="641293370" name="env_engine-space-tron_pink_001_l">
+		<mesh_name>resources_generated/elements/engines/engine-space_001_l/meshes/env_engine-space_001_l.mesh</mesh_name>
+		<surface name="spaceengine_L_lod0" max_visible_distance="256" material="M_SpaceEngine_L_TRON_CYAN" property="surface_base"/>
+		<surface name="spaceengine_L_lod1" min_visible_distance="256" max_visible_distance="512" material="M_SpaceEngine_L_TRON_CYAN" property="surface_base"/>
+		<surface name="spaceengine_L_lod2" min_visible_distance="512" max_visible_distance="1024" max_fade_distance="16" material="M_SpaceEngine_L_TRON_CYAN" property="surface_base"/>
+		<transform>0.999999940395 0 0 0.0 0 0.999999940395 0 0.0 0 0 0.999999940395 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1744523200" enabled="0" folded="1" name="col_mesh">
+			<mesh_name>resources_generated/elements/engines/engine-space_001_l/meshes/env_engine-space_001_l_col.mesh</mesh_name>
+			<surface name="spaceengine_L_col_mesh" material="cm_01" property="surface_base"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="1609237616" folded="1" name="contact_surfaces3">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="NodeReference" id="1737122642" name="contact2">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>7.5497901264e-008 0 -1 0.0 0 1 0 0.0 1 0 7.5497901264e-008 0.0 1.1991301775 0.973712563515 0 1.0</transform>
+			</node>
+			<node type="NodeReference" id="137948148" name="contact3">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>3.1391647326e-007 0 1 0.0 0 1 0 0.0 -1 0 3.1391647326e-007 0.0 -1.19056546688 0.973712325096 0 1.0</transform>
+			</node>
+			<node type="NodeReference" id="1103017778" name="contact4">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>1 0 -2.38418579102e-007 0.0 0 1 0 0.0 2.38418579102e-007 0 1 0.0 0.00657761096954 0.973712325096 1.76843762398 1.0</transform>
+			</node>
+			<node type="NodeReference" id="1951973938" name="contact1">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>1 0 -2.38418579102e-007 0.0 -2.38418579102e-007 -1.62920684943e-007 -1 0.0 -3.88433182104e-014 1 -1.62920684943e-007 0.0 0.00388139486313 4.53646850586 0.0975499972701 1.0</transform>
+			</node>
+		</node>
+		<node type="NodePopcorn" id="310842070" name="vfx_start">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<pkfx_name>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_blue/fx_sp_enginespace_001_l_blue.pkfx</pkfx_name>
+		</node>
+	</node>
+</nodes>

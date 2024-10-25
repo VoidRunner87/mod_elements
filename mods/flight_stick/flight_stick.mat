@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials version="2.3">
+	<material name="flight_stick_base" parent="mesh_base">
+        <state name="nq_mrao">1</state>
+        <parameter name="metalness">0.95</parameter>
+        <parameter name="roughness">0.352</parameter>
+		<parameter name="specular">0.348</parameter>
+        <parameter name="albedo_color">0.2 0.2 0.2 1</parameter>
+	</material>
+    <material name="flight_stick_buttons" parent="flight_stick_base">
+        <parameter name="albedo_color">1 0.0270000007 0.0270000007 1</parameter>
+    </material>
+    <material name="flight_stick_bitton" parent="flight_stick_base">
+        <parameter name="albedo_color">0.122000001 0.122000001 0.122000001 1</parameter>
+    </material>
+    <material name="flight_stick_bolts" parent="flight_stick_base">
+        <parameter name="albedo_color">0.5 0.5 0.5 1</parameter>
+    </material>
+    <material name="flight_stick_metal" parent="flight_stick_base">
+        <parameter name="albedo_color">0.340999991 0.340999991 0.340999991 1</parameter>
+    </material>
+</materials>

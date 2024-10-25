@@ -1,0 +1,65 @@
+{
+    "elements": {
+        "SpaceEngineLarge_TRON_PINK": {
+            "inherit": "SpaceEngineLarge",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_PINK.node",
+            "icon": "resources_generated/elements/engines/engine-space-manoeuver_001_l/icons/env_engine-space-manoeuver_001_l_icon.png"
+        },
+        "SpaceEngineLargeManeuver_TRON_PINK": {
+            "inherit": "SpaceEngineLargeManeuver",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_PINK.node",
+            "icon": "resources_generated/elements/engines/engine-space-manoeuver_001_l/icons/env_engine-space-manoeuver_001_l_icon.png"
+        },
+        "SpaceEngineLargeManeuver3_TRON_PINK": {
+            "inherit": "SpaceEngineLargeManeuver_TRON_PINK"
+        },
+        "SpaceEngineLargeManeuver4_TRON_PINK": {
+            "inherit": "SpaceEngineLargeManeuver_TRON_PINK"
+        },
+        "SpaceEngineLargeManeuver5_TRON_PINK": {
+            "inherit": "SpaceEngineLargeManeuver_TRON_PINK"
+        },
+        "SpaceEngineLargeMilitary_TRON_PINK": {
+            "inherit": "SpaceEngineLargeMilitary",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_PINK.node",
+            "icon": "resources_generated/elements/engines/engine-space-manoeuver_001_l/icons/env_engine-space-manoeuver_001_l_icon.png"
+        },
+        "SpaceEngineLargeMilitary3_TRON_PINK": {
+            "inherit": "SpaceEngineLargeMilitary_TRON_PINK"
+        },
+        "SpaceEngineLargeMilitary4_TRON_PINK": {
+            "inherit": "SpaceEngineLargeMilitary_TRON_PINK"
+        },
+        "SpaceEngineLargeMilitary5_TRON_PINK": {
+            "inherit": "SpaceEngineLargeMilitary_TRON_PINK"
+        },
+        "SpaceEngineLargeFreight_TRON_PINK": {
+            "inherit": "SpaceEngineLargeFreight",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_PINK.node",
+            "icon": "resources_generated/elements/engines/engine-space-manoeuver_001_l/icons/env_engine-space-manoeuver_001_l_icon.png"
+        },
+        "SpaceEngineLargeFreight3_TRON_PINK": {
+            "inherit": "SpaceEngineLargeFreight_TRON_PINK"
+        },
+        "SpaceEngineLargeFreight4_TRON_PINK": {
+            "inherit": "SpaceEngineLargeFreight_TRON_PINK"
+        },
+        "SpaceEngineLargeFreight5_TRON_PINK": {
+            "inherit": "SpaceEngineLargeFreight_TRON_PINK"
+        },
+        "SpaceEngineLargeSafe_TRON_PINK": {
+            "inherit": "SpaceEngineLargeSafe",
+            "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_PINK.node",
+            "icon": "resources_generated/elements/engines/engine-space-manoeuver_001_l/icons/env_engine-space-manoeuver_001_l_icon.png"
+        },
+        "SpaceEngineLargeSafe3_TRON_PINK": {
+            "inherit": "SpaceEngineLargeSafe_TRON_PINK"
+        },
+        "SpaceEngineLargeSafe4_TRON_PINK": {
+            "inherit": "SpaceEngineLargeSafe_TRON_PINK"
+        },
+        "SpaceEngineLargeSafe5_TRON_PINK": {
+            "inherit": "SpaceEngineLargeSafe_TRON_PINK"
+        }
+    }
+}

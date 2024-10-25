@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.0] - 2024-10-24
+
+### Changed
+
+- Added TRON Engines and Flight Stick Remote Skin
+
 ## [0.6.0] - 2024-10-11
 
 ### Changed

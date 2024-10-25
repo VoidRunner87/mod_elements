@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.3">
+	<materials>
+		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/flight_stick/flight_stick.mat</library>
+		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
+	</materials>
+	<node type="ObjectMeshStatic" id="2145770265" name="remote_control_0">
+		<mesh_name>resources_generated/mods/com.github.VoidRunner87.mod_elements/flight_stick/flight_stick.fbx</mesh_name>
+		<surface name="remotecontrol_lod0_base" max_visible_distance="16" max_visible_distance="64" material="flight_stick_base" property="surface_base"/>
+		<surface name="remotecontrol_lod0_bittons" max_visible_distance="16" max_visible_distance="64" material="flight_stick_bitton" property="surface_base"/>
+		<surface name="remotecontrol_lod0_bolts" max_visible_distance="16" max_visible_distance="64" material="flight_stick_bolts" property="surface_base"/>
+		<surface name="remotecontrol_lod0_buttons" max_visible_distance="16" max_visible_distance="64" material="flight_stick_buttons" property="surface_base"/>
+		<surface name="remotecontrol_lod0_metal" max_visible_distance="16" max_visible_distance="64" material="flight_stick_metal" property="surface_base"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1963828593" enabled="0" name="col_mesh">
+			<mesh_name>resources_generated/elements/remote-controls/remote-control_001/meshes/env_remote-control_001_col.mesh</mesh_name>
+			<surface name="col_mesh" material="cm_01" property="surface_base"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="789873131" name="contact_surfaces3">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="NodeReference" id="825141647" name="contact1">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>1 0 0 0.0 0 -1 1.50995802528e-007 0.0 0 -1.50995802528e-007 -1 0.0 0 2.66105981694e-009 -0.0608779527247 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>
