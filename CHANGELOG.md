@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.2] - 2024-10-24
+
+### Changed
+
+- Fixed Versioning on file name. Can't use use due to folder changes
+
 ## [0.7.0] - 2024-10-24
 
 ### Changed
