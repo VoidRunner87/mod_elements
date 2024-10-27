@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0] - 2024-10-26
+
+### Changed
+
+- Fixed TRON Skins
+- Added Substance Graph source for fixing alpha channel
+- Changed Textures to PNG
+
 ## [0.7.3] - 2024-10-24
 
 ### Changed
