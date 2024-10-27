@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes version="2.3">
 	<materials>
-		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON_ORANGE.mat</library>
+		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/M_SpaceEngine_L_TRON.mat</library>
 		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
 	</materials>
 	<node type="ObjectMeshStatic" id="641293370" name="env_engine-space-tron_pink_001_l">

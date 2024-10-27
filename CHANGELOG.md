@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.8.1] - 2024-10-26
+
+### Changed
+
+- Reduced Texture Files to just around 7mb
+
 ## [0.8.0] - 2024-10-26
 
 ### Changed

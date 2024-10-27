@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials version="2.3">
+	<material name="M_SpaceEngine_L_TRON" parent="mesh_base">
+		<state name="emission">1</state>
+		<state name="nq_mrao">1</state>
+		<texture name="albedo">resources_generated/elements/engines/engine-space-military_001_l/textures/env_engine-space-military_001_l_t_c.dds</texture>
+		<texture name="shading">resources_generated/elements/engines/engine-space-military_001_l/textures/env_engine-space-military_001_l_t_mrao.dds</texture>
+		<texture name="normal">resources_generated/elements/engines/engine-space-military_001_l/textures/env_engine-space-military_001_l_t_n.dds</texture>
+		<texture name="ambient_occlusion">resources_generated/elements/engines/engine-space-military_001_l/textures/env_engine-space-military_001_l_t_mrao.dds</texture>
+		<texture name="emission">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_E.png</texture>
+		<parameter name="metalness">1</parameter>
+		<parameter name="emission_color">0.5 0 0.5 0.5</parameter>
+		<parameter name="emission_scale">1</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_PINK" parent="M_SpaceEngine_L_TRON">
+		<parameter name="emission_color">0.5 0 0.5 0.5</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_CYAN" parent="M_SpaceEngine_L_TRON">
+		<parameter name="emission_color">0 0.5 0.5 0.5</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_ORANGE" parent="M_SpaceEngine_L_TRON">
+		<parameter name="emission_color">0.5 0.05 0 0.5</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_WHITE" parent="M_SpaceEngine_L_TRON">
+		<parameter name="emission_color">0.5 0.5 0.5 0.5</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_YELLOW" parent="M_SpaceEngine_L_TRON">
+		<parameter name="emission_color">0.5 0.5 0 0.5</parameter>
+	</material>
+</materials>
