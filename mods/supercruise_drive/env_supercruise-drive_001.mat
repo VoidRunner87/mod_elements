@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<materials version="2.3">
+	<material name="env_supercruise-drive_001" parent="mesh_base">
+		<state name="emission">1</state>
+		<state name="nq_mrao">1</state>
+		<texture name="albedo">resources_generated/elements/warp-drives/warp-drive_001/textures/env_warp-drive_001_t_c.dds</texture>
+		<texture name="shading">resources_generated/elements/warp-drives/warp-drive_001/textures/env_warp-drive_001_t_mrao.dds</texture>
+		<texture name="normal">resources_generated/elements/warp-drives/warp-drive_001/textures/env_warp-drive_001_t_n.dds</texture>
+		<texture name="emission">resources_generated/elements/warp-drives/warp-drive_001/textures/env_warp-drive_001_t_e.dds</texture>
+		<parameter name="metalness">1</parameter>
+		<parameter name="emission_color">0 0.5 0.5 1</parameter>
+		<parameter name="emission_scale">10</parameter>
+	</material>
+</materials>

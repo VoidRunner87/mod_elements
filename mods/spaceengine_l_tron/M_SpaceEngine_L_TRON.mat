@@ -13,18 +13,27 @@
 		<parameter name="emission_scale">1</parameter>
 	</material>
 	<material name="M_SpaceEngine_L_TRON_PINK" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_PINK_C.png</texture>
 		<parameter name="emission_color">0.5 0 0.5 0.5</parameter>
 	</material>
 	<material name="M_SpaceEngine_L_TRON_CYAN" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_CYAN_C.png</texture>
 		<parameter name="emission_color">0 0.5 0.5 0.5</parameter>
 	</material>
 	<material name="M_SpaceEngine_L_TRON_ORANGE" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_ORANGE_C.png</texture>
 		<parameter name="emission_color">0.5 0.05 0 0.5</parameter>
 	</material>
 	<material name="M_SpaceEngine_L_TRON_WHITE" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_WHITE_C.png</texture>
 		<parameter name="emission_color">0.5 0.5 0.5 0.5</parameter>
 	</material>
 	<material name="M_SpaceEngine_L_TRON_YELLOW" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_YELLOW_C.png</texture>
 		<parameter name="emission_color">0.5 0.5 0 0.5</parameter>
+	</material>
+	<material name="M_SpaceEngine_L_TRON_GREEN" parent="M_SpaceEngine_L_TRON">
+		<texture name="albedo">resources_generated/mods/com.github.VoidRunner87.mod_elements/spaceengine_l_tron/T_SpaceEngine_L_TRON_GREEN_C.png</texture>
+		<parameter name="emission_color">0 0.5 0 0.5</parameter>
 	</material>
 </materials>

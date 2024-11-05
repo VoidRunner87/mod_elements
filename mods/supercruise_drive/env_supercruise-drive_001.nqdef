@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "WarpDriveS": {
+      "icon": "resources_generated/elements/warp-drives/warp-drive_001/icons/env_warp-drive_001_icon.png",
+      "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/supercruise_drive/env_supercruise-drive_001.node",
+      "soundMaterial": "hard",
+      "soundParameters": {
+        "warpCruiseEvent": "Construct_WarpDrive_Cruise",
+        "warpInterruptEvent": "Construct_WarpDrive_Interrupt",
+        "warpPauseBeforeAccelerationEvent": "Construct_WarpDrive_Pause_Before_Acceleration",
+        "warpRealignEvent": "Construct_WarpDrive_Realign_Start",
+        "warpStartAccelerationEvent": "Construct_WarpDrive_Acceleration_Start",
+        "warpStartDecelerationEvent": "Construct_WarpDrive_Deceleration_Start",
+        "warpStopEvent": "Construct_WarpDrive_Deceleration_Stop",
+        "warpVoiceCompletedStartEvent": "Construct_WarpDrive_Voice_Completed_Start",
+        "warpVoiceInitiatedStartEvent": "Construct_WarpDrive_Voice_Initiated_Start",
+        "warpVoicePassengerImmobilizedStartEvent": "Construct_WarpDrive_Voice_Passenger_Immobilized_Start",
+        "warpVoicePassengerReleasedStartEvent": "Construct_WarpDrive_Voice_Passenger_Released_Start"
+      }
+    }
+  }
+}
