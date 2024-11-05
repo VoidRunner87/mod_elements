@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0] - 2024-11-05
+
+### Changed
+
+- Added Supercruise Drive
+- Fixed TRON Skins
+
 ## [0.8.1] - 2024-10-26
 
 ### Changed
