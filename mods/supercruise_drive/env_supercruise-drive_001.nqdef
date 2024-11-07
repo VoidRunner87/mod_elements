@@ -17,6 +17,10 @@
         "warpVoicePassengerImmobilizedStartEvent": "Construct_WarpDrive_Voice_Passenger_Immobilized_Start",
         "warpVoicePassengerReleasedStartEvent": "Construct_WarpDrive_Voice_Passenger_Released_Start"
       }
+    },
+    "SupercruiseDriveXS": {
+      "inherit": "WarpDriveS",
+      "node": "resources_generated/mods/com.github.VoidRunner87.mod_elements/supercruise_drive/env_supercruise-drive_001_xs.node"
     }
   }
 }

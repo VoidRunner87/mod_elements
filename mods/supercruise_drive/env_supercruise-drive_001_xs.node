@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.3">
+	<materials>
+		<library>resources_generated/mods/com.github.VoidRunner87.mod_elements/supercruise_drive/env_supercruise-drive_001.mat</library>
+		<library>resources_generated/gameplay/tools/contactsurface/contact_surface.mat</library>
+	</materials>
+	<node type="ObjectMeshStatic" id="26665124" name="env_supercruise-drive_001_1">
+		<mesh_name>resources_generated/mods/com.github.VoidRunner87.mod_elements/supercruise_drive/env_supercruise-drive_001_xs.fbx</mesh_name>
+		<surface name="env_warp-drive_001_lod0" max_visible_distance="20" material="env_supercruise-drive_001" property="surface_base"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="179831677" enabled="0" name="contact_surfaces3">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="NodeReference" id="882938314" name="contact1">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>0.999999940395 0 0 0.0 0 -0.999999940395 -8.7422760468e-008 0.0 0 8.7422760468e-008 -1 0.0 0 -3.56358694995e-025 -0.5 1.0</transform>
+			</node>
+			<node type="NodeReference" id="53023221" name="contact2">
+				<reference>resources_generated/gameplay/tools/contactsurface/nodes/contact_surface_base_03.node</reference>
+				<transform>0.999999940395 0 0 0.0 0 5.96046412227e-008 0.999999880791 0.0 0 -0.999999821186 5.960463767e-008 0.0 0 -0.5 -1.0899068577e-024 1.0</transform>
+			</node>
+		</node>
+		<node type="ObjectMeshStatic" id="518470783" enabled="0" name="col_mesh">
+			<mesh_name>resources_generated/mods/com.github.VoidRunner87.mod_elements/supercruise_drive/env_supercruise-drive_001_xs.fbx</mesh_name>
+			<surface name="env_warp-drive_001_lod0_mesh_base" material="cm_01" property="surface_base"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>
